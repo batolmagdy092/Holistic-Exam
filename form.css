@@ -1,0 +1,17 @@
+.form_box{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 180px;
+}
+.container
+{
+    background-color: rgb(97, 97, 226);
+    border-radius: 10px;
+    width: 220px;
+    height: 300PX;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 600PX;
+}

@@ -1,0 +1,65 @@
+.img1
+{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 550px;
+}
+.h1
+{
+    margin-left: 570px;
+}
+.container  h4
+{
+    display: inline-block; 
+    margin: 0 ; 
+  letter-spacing: 20px;
+  margin-left: 400px;
+
+
+}
+.red
+{
+    margin-left: 400px;
+}
+.red1
+{
+    margin-left: 25px;
+}
+.imges
+{
+    display: inline-block; 
+  margin: 0 ; 
+}
+.imges .red2
+{
+    margin-left: 400px;
+}
+.imges .red3
+{
+    margin-left: 10px;
+}
+.imges1 .green
+{
+    margin-left: 400px;
+    margin-top: 30px;
+}
+.imges1 .red4
+{
+    margin-left: 25px;
+}
+.imges2
+{
+    display: inline-block; 
+    margin: 0 ; 
+}
+.imges2 .green1
+{
+    margin-left: 900px;
+}
+.imges2 .green2
+{
+    margin-left: 25px;
+    
+}
+
